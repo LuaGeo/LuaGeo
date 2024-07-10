@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lua</h1>
 <h3 align="center">A passionate Data Analyst, web & mobile developer AND also geoscientist based in Paris 🗼</h3>
 
-- 🌱 I’m currently learning **Data Analyse at Wild Code School**
+- 🌱 I’m currently learning **Data Analyse 📊 at Wild Code School**
 
 - 🤝 I'm looking for a company for a work-study contract for my **next training in Data and AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LuaGeo](https://github.com/LuaGeo)
+- 👩🏼‍💻 All of my projects are available at [https://github.com/LuaGeo](https://github.com/LuaGeo)
 
-- 📫 How to reach me **ldeoliveiratech@gmail.com**
+- 💌 How to reach me **ldeoliveiratech@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/luanaroliveira/](https://www.linkedin.com/in/luanaroliveira/)
+- 📇 Know about my experiences [https://www.linkedin.com/in/luanaroliveira/](https://www.linkedin.com/in/luanardeoliveira/)
+  
+- 🐙 My Portfolio: https://luanadeoliveira.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
