@@ -26,5 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luageo&show_icons=true&locale=en" alt="luageo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luageo&theme=dark" alt="luageo" /></p>
-
-![snake gif](https://github.com/LuaGeo/LuaGeo/blob/output/github-contribution-grid-snake.gif)
