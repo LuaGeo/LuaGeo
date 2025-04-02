@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lua</h1>
 <h3 align="center">A passionate Data Analyst, web & mobile developer AND also geoscientist based in Paris 🗼</h3>
 
-- 🌱 I’m currently learning **Data Analyse 📊 at Wild Code School**
+- 🌱 I’m currently learning **Data & AI engineering 📊 at Wild Code School**
 
-- 🤝 I'm looking for a company for a work-study contract for my **next training in Data and AI**
+- 🏢 Currently working at **Groupe Vyv** under a work-study contract
 
 - 👩🏼‍💻 All of my projects are available at [https://github.com/LuaGeo](https://github.com/LuaGeo)
 
