@@ -36,17 +36,15 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,tailwind,react,nextjs,fastapi,flask,django,nodejs,express,postgres,mongodb,mysql,docker,aws,gcp,git,github,figma,linux,vscode,pytorch,sklearn&perline=10" alt="My Skills"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=express" title="Express" alt="Express" width="48" height="48"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
+<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=sklearn" title="scikit-learn" alt="scikit-learn" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services" alt="AWS" width="48" height="48"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" alt="GCP" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" width="48" height="48"/> <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="48" height="48"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="48" height="48"/> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="48" height="48"/> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" title="Streamlit" alt="Streamlit" width="48" height="48"/> <img src="https://n8n.io/favicon.ico" title="n8n" alt="n8n" width="48" height="48"/>
 </p>
 
 ---
