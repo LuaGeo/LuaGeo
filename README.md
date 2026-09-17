@@ -27,9 +27,9 @@
 |---|---|---|
 | 🍱 **GuessMyMeal** | Mobile app for food recognition with fine-tuned YOLOv8 (Food-101) and OpenAI Vision fallback | React Native · FastAPI · MongoDB · PyTorch |
 | 📄 **[PDF Comparator](https://comparateur-de-pdf.streamlit.app)** | Document comparison tool built at Groupe VYV — diff engine + OCR | PyMuPDF · Google Cloud Vision · FastAPI · Next.js |
-| 🎬 **Ciné La Creuse** | Movie recommendation system based on content similarity | TF-IDF · Cosine similarity · Flask · React |
-| 🏠 **Kley Résidences** | Real estate data analysis & dashboards | Tableau · BeautifulSoup · Python |
-| 🩺 **Wlab** | Multi-disease diagnosis prediction API | Django · Streamlit · Docker |
+| 🎬 **[Ciné La Creuse](https://ml-cine-creuse-frontend.vercel.app/)** | Movie recommendation system based on content similarity | TF-IDF · Cosine similarity · Flask · React |
+| 🏠 **[Kley Résidences](https://public.tableau.com/app/profile/luana.de.oliveira8240/viz/Kley_Residences/Tableaudebord1)** | Real estate data analysis & dashboards | Tableau · BeautifulSoup · Python |
+| 🩺 **[Wlab](https://wlab-breast-cancer.streamlit.app/)** | Multi-disease diagnosis prediction API | Django · Streamlit · Docker |
 
 ---
 
